@@ -132,7 +132,7 @@ export function PersonalDataForm() {
                             checked={form.newsletter}
                             onChange={handleForm}
                         />
-                        <p>Of course I am accepting the terms of use</p>
+                        <p> I am accepting the terms of use</p>
                     </div>
                     <div>
                         <button
